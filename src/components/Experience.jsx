@@ -4,7 +4,7 @@ import React from "react";
 const Experience = () => {
   return (
     <div className="border-t border-b border-[#4b2e2e] py-4 px-6 text-[#4b2e2e]">
-      <h2 className="text-center font-medium text-lg mb-2">Experience</h2>
+     
 
       <div className="text-sm">
         <p className="mb-2">

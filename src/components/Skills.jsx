@@ -3,7 +3,7 @@ import { FaHtml5, FaCss3Alt, FaJava, FaPython } from 'react-icons/fa';
 const Skills = () => {
   return (
     <div className="text-center py-4 border-t border-b border-black text-[#2B1910]">
-      <h2 className="text-lg font-semibold mb-4">Skills</h2>
+      
       <div className="grid grid-cols-2 gap-y-4 gap-x-8 justify-items-center text-sm">
         <div className="flex items-center space-x-2">
           <FaHtml5 className="text-[#2B1910] text-lg" />
